@@ -1,0 +1,13 @@
+my_animal_cat:
+  name: Lucy
+  color: black
+  age: 2
+  sex: male
+  hair: short
+
+dog:
+  name: Anne
+  color: yellow
+  age: 5
+  sex: female
+  hair: long
